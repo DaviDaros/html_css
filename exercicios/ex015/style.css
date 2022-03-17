@@ -1,0 +1,17 @@
+@charset "UTF-8";
+        body{
+            background-color: lightblue;
+            font-family: Cambria;
+            font-size: 20px;
+        }
+        h1{
+            color: goldenrod;
+            background-color: lightyellow;
+        }
+        h2{
+            color: brown;
+        }
+        p{
+            text-align: justify;
+        }
+    
